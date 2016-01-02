@@ -1,0 +1,22 @@
+# Here you can set numbers of atoms that must
+# be removed and replaced by atoms of other sort
+#number_vacancy_list       174
+number_interstitial_list  187 245
+interstitial_mass_at      47.867
+file_lattice_at           id432V.at
+name_final_structure      Ti2_new
+
+
+# Square pyramid
+#number_vacancy_list       173 175 245 247
+#number_interstitial_list  174
+
+
+# Octahedr
+#number_vacancy_list       173 174 175 245 247
+#number_interstitial_list  162
+
+
+# [111] Ti2Va
+#number_vacancy_list       174
+#number_interstitial_list  187 245
