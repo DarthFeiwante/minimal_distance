@@ -12,9 +12,13 @@ minimal_distance.in - each line in this file contains three cartesian atomic coo
 
 Program contains function min_dist that is used for calculation of minimal interatomic distance 
 in lattce that set as list of lists of atomic coordinates. Function takes three arguments:
+
 1) r_atoms - list (with length that equals to number of atoms) of lists (x,y,z) of the cartesian atomic coordinates
+
 2) units - name of units in string type (default = 'angstroms')
+
 3) print_distance_dict - need for print of the interatomic distances dictionary (default = False)
+
 
 Output (on screen): minimal interatomic distance in a given lattice 
 
